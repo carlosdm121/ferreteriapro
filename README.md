@@ -1,5 +1,9 @@
 # 🛠️ Ferretería Pro
 
+<p align="center">
+  <img src="./public/logot.png" alt="Logo Ferretería Pro" width="200" />
+</p>
+
 ![Banner](https://images.unsplash.com/photo-1542013936693-884638332954?auto=format&fit=crop&q=80&w=1200&h=400)
 
 **Ferretería Pro** es una plataforma moderna de comercio electrónico diseñada para agilizar y simplificar las ventas de herramientas, materiales de construcción y artículos de ferretería. 
